@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "shadowwolf_mod_one:oddbrowngem"
+    },
+    "title": {
+      "translate": "advancements.browngemachievement.title"
+    },
+    "description": {
+      "translate": "advancements.browngemachievement.descr"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "browngemachievement": {
+      "trigger": "browngemachievement"
+    }
+  },
+  "parent": "shadowwolf_mod_one:unodimensionachievement"
+}

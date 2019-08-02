@@ -1,0 +1,26 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:oddbrowngem"
+    },
+    "2": {
+      "item": "shadowwolf_mod_one:oddbrowngem"
+    },
+    "3": {
+      "item": "shadowwolf_mod_one:oddbrowngem"
+    },
+    "5": {
+      "item": "shadowwolf_mod_one:oddbrowngem"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:oddbrowngemarmorboots",
+    "count": 1
+  }
+}

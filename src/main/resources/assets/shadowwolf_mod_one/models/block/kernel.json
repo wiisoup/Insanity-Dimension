@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "shadowwolf_mod_one:blocks/kernel",
+    "up": "shadowwolf_mod_one:blocks/kernel",
+    "north": "shadowwolf_mod_one:blocks/kernel",
+    "east": "shadowwolf_mod_one:blocks/kernel",
+    "south": "shadowwolf_mod_one:blocks/kernel",
+    "west": "shadowwolf_mod_one:blocks/kernel",
+    "particle": "shadowwolf_mod_one:blocks/kernel"
+  }
+}

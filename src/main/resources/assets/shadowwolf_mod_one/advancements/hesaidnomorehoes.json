@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "shadowwolf_mod_one:insanehoe"
+    },
+    "title": {
+      "translate": "advancements.hesaidnomorehoes.title"
+    },
+    "description": {
+      "translate": "advancements.hesaidnomorehoes.descr"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "hesaidnomorehoes": {
+      "trigger": "hesaidnomorehoes"
+    }
+  },
+  "parent": "shadowwolf_mod_one:insanitydimensionportal"
+}

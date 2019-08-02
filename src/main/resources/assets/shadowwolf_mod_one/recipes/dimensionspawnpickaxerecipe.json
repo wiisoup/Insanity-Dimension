@@ -1,0 +1,30 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:dimensionspawnrubyblock"
+    },
+    "1": {
+      "item": "shadowwolf_mod_one:dimensionspawnrubyblock"
+    },
+    "2": {
+      "item": "shadowwolf_mod_one:dimensionspawnrubyblock"
+    },
+    "4": {
+      "item": "shadowwolf_mod_one:dimensionspawnrubystick"
+    },
+    "7": {
+      "item": "shadowwolf_mod_one:dimensionspawnrubystick"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:dimensionspawnpickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "shadowwolf_mod_one:rainbowblock"
+    }
+  ],
+  "result": {
+    "item": "shadowwolf_mod_one:rainbowdust",
+    "count": 9
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "shadowwolf_mod_one:goo"
+    },
+    "title": {
+      "translate": "advancements.dontdrinkitachievement.title"
+    },
+    "description": {
+      "translate": "advancements.dontdrinkitachievement.descr"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "dontdrinkitachievement": {
+      "trigger": "dontdrinkitachievement"
+    }
+  },
+  "parent": "shadowwolf_mod_one:insanitydimensionportal"
+}

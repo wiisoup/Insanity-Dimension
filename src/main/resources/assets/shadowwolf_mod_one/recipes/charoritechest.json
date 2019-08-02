@@ -1,0 +1,39 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:charoriteingot"
+    },
+    "2": {
+      "item": "shadowwolf_mod_one:charoriteingot"
+    },
+    "3": {
+      "item": "shadowwolf_mod_one:charoriteingot"
+    },
+    "4": {
+      "item": "shadowwolf_mod_one:charoriteingot"
+    },
+    "5": {
+      "item": "shadowwolf_mod_one:charoriteingot"
+    },
+    "6": {
+      "item": "shadowwolf_mod_one:charoriteingot"
+    },
+    "7": {
+      "item": "shadowwolf_mod_one:charoriteingot"
+    },
+    "8": {
+      "item": "shadowwolf_mod_one:charoriteingot"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:charoritearmorbody",
+    "count": 1
+  }
+}

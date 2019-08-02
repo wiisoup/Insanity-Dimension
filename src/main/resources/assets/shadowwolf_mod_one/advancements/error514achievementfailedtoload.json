@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "shadowwolf_mod_one:kernelarmorbody"
+    },
+    "title": {
+      "translate": "advancements.error514achievementfailedtoload.title"
+    },
+    "description": {
+      "translate": "advancements.error514achievementfailedtoload.descr"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "error514achievementfailedtoload": {
+      "trigger": "error514achievementfailedtoload"
+    }
+  },
+  "parent": "shadowwolf_mod_one:prankddimensionachievement"
+}

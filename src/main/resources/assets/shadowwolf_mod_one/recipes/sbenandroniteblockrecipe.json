@@ -1,0 +1,19 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:benandronitesmooth"
+    },
+    "1": {
+      "item": "minecraft:grass"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:sbenandroniteblock",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "display": {
+    "background": "minecraft:textures/blocks/stone.png",
+    "icon": {
+      "item": "shadowwolf_mod_one:kernel"
+    },
+    "title": {
+      "translate": "advancements.insanitydimension.title"
+    },
+    "description": {
+      "translate": "advancements.insanitydimension.descr"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "insanitydimension": {
+      "trigger": "insanitydimension"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "shadowwolf_mod_one:uselesscharoritesword"
+    },
+    "title": {
+      "translate": "advancements.bestweaponachievement.title"
+    },
+    "description": {
+      "translate": "advancements.bestweaponachievement.descr"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "bestweaponachievement": {
+      "trigger": "bestweaponachievement"
+    }
+  },
+  "parent": "shadowwolf_mod_one:thedimensionspawn"
+}

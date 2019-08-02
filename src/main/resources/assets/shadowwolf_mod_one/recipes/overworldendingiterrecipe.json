@@ -1,0 +1,16 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:ender_pearl"
+    },
+    {
+      "item": "shadowwolf_mod_one:benandronitesmooth"
+    }
+  ],
+  "result": {
+    "item": "shadowwolf_mod_one:brokenoverworld",
+    "count": 1
+  }
+}

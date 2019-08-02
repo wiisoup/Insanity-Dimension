@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "shadowwolf_mod_one:prankddimension"
+    },
+    "title": {
+      "translate": "advancements.prankddimensionachievement.title"
+    },
+    "description": {
+      "translate": "advancements.prankddimensionachievement.descr"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "prankddimensionachievement": {
+      "trigger": "prankddimensionachievement"
+    }
+  },
+  "parent": "shadowwolf_mod_one:unodimensionachievement"
+}

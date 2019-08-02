@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "shadowwolf_mod_one:blocks/charorite",
+    "up": "shadowwolf_mod_one:blocks/charorite",
+    "north": "shadowwolf_mod_one:blocks/charorite",
+    "east": "shadowwolf_mod_one:blocks/charorite",
+    "south": "shadowwolf_mod_one:blocks/charorite",
+    "west": "shadowwolf_mod_one:blocks/charorite",
+    "particle": "shadowwolf_mod_one:blocks/charorite"
+  }
+}

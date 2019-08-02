@@ -1,0 +1,27 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:unoblankcard1"
+    },
+    "1": {
+      "item": "shadowwolf_mod_one:unoplusfour"
+    },
+    "3": {
+      "item": "shadowwolf_mod_one:uno1card"
+    },
+    "5": {
+      "item": "shadowwolf_mod_one:unoreversecard"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:unohoe",
+    "count": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:oddbrowngem"
+    },
+    "2": {
+      "item": "shadowwolf_mod_one:oddbrowngem"
+    },
+    "3": {
+      "item": "shadowwolf_mod_one:oddbrowngem"
+    },
+    "4": {
+      "item": "shadowwolf_mod_one:oddbrowngem"
+    },
+    "5": {
+      "item": "shadowwolf_mod_one:oddbrowngem"
+    },
+    "6": {
+      "item": "shadowwolf_mod_one:oddbrowngem"
+    },
+    "7": {
+      "item": "shadowwolf_mod_one:oddbrowngem"
+    },
+    "8": {
+      "item": "shadowwolf_mod_one:oddbrowngem"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:oddbrowngemarmorbody",
+    "count": 1
+  }
+}

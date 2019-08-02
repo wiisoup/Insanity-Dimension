@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "shadowwolf_mod_one:uselesscharoritepickaxe"
+    },
+    "title": {
+      "translate": "advancements.uselesscharoritepickaxeachievement.title"
+    },
+    "description": {
+      "translate": "advancements.uselesscharoritepickaxeachievement.descr"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "uselesscharoritepickaxeachievement": {
+      "trigger": "uselesscharoritepickaxeachievement"
+    }
+  },
+  "parent": "shadowwolf_mod_one:charoritepickaxeachievement"
+}

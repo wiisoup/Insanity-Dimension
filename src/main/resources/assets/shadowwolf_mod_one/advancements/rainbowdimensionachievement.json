@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "shadowwolf_mod_one:rainbowdimension"
+    },
+    "title": {
+      "translate": "advancements.rainbowdimensionachievement.title"
+    },
+    "description": {
+      "translate": "advancements.rainbowdimensionachievement.descr"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "rainbowdimensionachievement": {
+      "trigger": "rainbowdimensionachievement"
+    }
+  },
+  "parent": "shadowwolf_mod_one:rewarddimensionachievement"
+}

@@ -1,0 +1,42 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:oddbrowngemblock"
+    },
+    "1": {
+      "item": "shadowwolf_mod_one:benandriteitem"
+    },
+    "2": {
+      "item": "shadowwolf_mod_one:oddbrowngemblock"
+    },
+    "3": {
+      "item": "shadowwolf_mod_one:unoreversecard"
+    },
+    "4": {
+      "item": "shadowwolf_mod_one:kernel"
+    },
+    "5": {
+      "item": "shadowwolf_mod_one:darkgem"
+    },
+    "6": {
+      "item": "shadowwolf_mod_one:oddbrowngemblock"
+    },
+    "7": {
+      "item": "shadowwolf_mod_one:insanityingot"
+    },
+    "8": {
+      "item": "shadowwolf_mod_one:oddbrowngemblock"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:dimensionspawnspawner",
+    "count": 1
+  }
+}

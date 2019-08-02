@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "shadowwolf_mod_one:blocks/rainbow block",
+    "up": "shadowwolf_mod_one:blocks/rainbow block",
+    "north": "shadowwolf_mod_one:blocks/rainbow block",
+    "east": "shadowwolf_mod_one:blocks/rainbow block",
+    "south": "shadowwolf_mod_one:blocks/rainbow block",
+    "west": "shadowwolf_mod_one:blocks/rainbow block",
+    "particle": "shadowwolf_mod_one:blocks/rainbow block"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:charoriteshard"
+    },
+    "1": {
+      "item": "shadowwolf_mod_one:charoriteshard"
+    },
+    "2": {
+      "item": "shadowwolf_mod_one:charoriteshard"
+    },
+    "3": {
+      "item": "shadowwolf_mod_one:charoriteshard"
+    },
+    "4": {
+      "item": "shadowwolf_mod_one:charoriteshard"
+    },
+    "5": {
+      "item": "shadowwolf_mod_one:charoriteshard"
+    },
+    "6": {
+      "item": "shadowwolf_mod_one:charoriteshard"
+    },
+    "7": {
+      "item": "shadowwolf_mod_one:charoriteshard"
+    },
+    "8": {
+      "item": "shadowwolf_mod_one:charoriteshard"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:charorite",
+    "count": 1
+  }
+}

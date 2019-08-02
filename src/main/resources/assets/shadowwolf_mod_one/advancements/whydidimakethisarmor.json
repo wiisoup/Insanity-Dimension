@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "shadowwolf_mod_one:oddbrowngemarmorbody"
+    },
+    "title": {
+      "translate": "advancements.whydidimakethisarmor.title"
+    },
+    "description": {
+      "translate": "advancements.whydidimakethisarmor.descr"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "whydidimakethisarmor": {
+      "trigger": "whydidimakethisarmor"
+    }
+  },
+  "parent": "shadowwolf_mod_one:browngemachievement"
+}

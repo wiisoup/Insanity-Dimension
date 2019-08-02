@@ -1,0 +1,16 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "shadowwolf_mod_one:benandriteitem"
+    },
+    {
+      "item": "shadowwolf_mod_one:charoriteingot"
+    }
+  ],
+  "result": {
+    "item": "shadowwolf_mod_one:insanity",
+    "count": 1
+  }
+}

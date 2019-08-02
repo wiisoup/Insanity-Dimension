@@ -1,0 +1,39 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:unoplusfour"
+    },
+    "2": {
+      "item": "shadowwolf_mod_one:unoplusfour"
+    },
+    "3": {
+      "item": "shadowwolf_mod_one:unoplusfour"
+    },
+    "4": {
+      "item": "shadowwolf_mod_one:unoplusfour"
+    },
+    "5": {
+      "item": "shadowwolf_mod_one:unoplusfour"
+    },
+    "6": {
+      "item": "shadowwolf_mod_one:unoplusfour"
+    },
+    "7": {
+      "item": "shadowwolf_mod_one:unoplusfour"
+    },
+    "8": {
+      "item": "shadowwolf_mod_one:unoplusfour"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:unoarmorbody",
+    "count": 1
+  }
+}

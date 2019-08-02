@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "shadowwolf_mod_one:darkpickaxe"
+    },
+    "title": {
+      "translate": "advancements.darkpickaxeachievement.title"
+    },
+    "description": {
+      "translate": "advancements.darkpickaxeachievement.descr"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "darkpickaxeachievement": {
+      "trigger": "darkpickaxeachievement"
+    }
+  },
+  "parent": "shadowwolf_mod_one:darkdimensionachievement"
+}

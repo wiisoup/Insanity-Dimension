@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "shadowwolf_mod_one:rainbowblock"
+    },
+    "title": {
+      "translate": "advancements.enteralldimensions.title"
+    },
+    "description": {
+      "translate": "advancements.enteralldimensions.descr"
+    },
+    "frame": "goal"
+  },
+  "criteria": {
+    "enteralldimensions": {
+      "trigger": "enteralldimensions"
+    }
+  },
+  "parent": "shadowwolf_mod_one:prankddimensionachievement"
+}

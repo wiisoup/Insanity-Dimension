@@ -1,0 +1,30 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:benandriteitem"
+    },
+    "1": {
+      "item": "shadowwolf_mod_one:benandriteitem"
+    },
+    "2": {
+      "item": "shadowwolf_mod_one:benandriteitem"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:benandriteaxe",
+    "count": 1
+  }
+}

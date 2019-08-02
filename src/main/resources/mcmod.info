@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "shadowwolf_mod_one",
+    "name": "Insanity Dimension",
+    "description": "Adds crazy additons to minecraft while being insane also.",
+    "version": "2.6.0",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "logoFile": "assets/shadowwolf_mod_one/textures/id.png",
+    "mcversion": "1.12.2",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/insanity-dimension",
+    "updateUrl": "",
+    "authorList": [
+      "ShadowWolf526, wiisoup",
+      "MCreator"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": []
+  }
+]

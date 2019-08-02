@@ -1,0 +1,26 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:unoreversecard"
+    },
+    "2": {
+      "item": "shadowwolf_mod_one:unoreversecard"
+    },
+    "3": {
+      "item": "shadowwolf_mod_one:unoreversecard"
+    },
+    "5": {
+      "item": "shadowwolf_mod_one:unoreversecard"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:unoarmorboots",
+    "count": 1
+  }
+}

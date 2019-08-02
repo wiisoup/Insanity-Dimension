@@ -1,0 +1,16 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "shadowwolf_mod_one:insanityingot"
+    },
+    {
+      "item": "shadowwolf_mod_one:darkdirtflint"
+    }
+  ],
+  "result": {
+    "item": "shadowwolf_mod_one:darkdimension",
+    "count": 1
+  }
+}

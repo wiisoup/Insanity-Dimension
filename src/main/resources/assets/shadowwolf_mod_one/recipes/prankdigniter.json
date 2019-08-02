@@ -1,0 +1,16 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "shadowwolf_mod_one:darkdimension"
+    },
+    {
+      "item": "shadowwolf_mod_one:benandronitedimension"
+    }
+  ],
+  "result": {
+    "item": "shadowwolf_mod_one:prankddimension",
+    "count": 1
+  }
+}

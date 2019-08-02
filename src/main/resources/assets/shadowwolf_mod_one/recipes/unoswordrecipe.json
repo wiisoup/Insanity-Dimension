@@ -1,0 +1,24 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:unoreversecard"
+    },
+    "1": {
+      "item": "shadowwolf_mod_one:unoreversecard"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:unosword",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "shadowwolf_mod_one:blocks/owodirt",
+    "up": "shadowwolf_mod_one:blocks/owodirt",
+    "north": "shadowwolf_mod_one:blocks/owodirt",
+    "east": "shadowwolf_mod_one:blocks/owodirt",
+    "south": "shadowwolf_mod_one:blocks/owodirt",
+    "west": "shadowwolf_mod_one:blocks/owodirt",
+    "particle": "shadowwolf_mod_one:blocks/owodirt"
+  }
+}

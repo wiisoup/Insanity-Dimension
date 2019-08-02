@@ -1,0 +1,39 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:kernelingot"
+    },
+    "2": {
+      "item": "shadowwolf_mod_one:kernelingot"
+    },
+    "3": {
+      "item": "shadowwolf_mod_one:kernelingot"
+    },
+    "4": {
+      "item": "shadowwolf_mod_one:kernelingot"
+    },
+    "5": {
+      "item": "shadowwolf_mod_one:kernelingot"
+    },
+    "6": {
+      "item": "shadowwolf_mod_one:kernelingot"
+    },
+    "7": {
+      "item": "shadowwolf_mod_one:kernelingot"
+    },
+    "8": {
+      "item": "shadowwolf_mod_one:kernelingot"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:kernelarmorbody",
+    "count": 1
+  }
+}

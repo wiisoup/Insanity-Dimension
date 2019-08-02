@@ -1,0 +1,16 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:unoblankcardblock"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:unoblankcard1",
+    "count": 9
+  }
+}

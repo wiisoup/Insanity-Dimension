@@ -1,0 +1,30 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:insanedust"
+    },
+    "1": {
+      "item": "shadowwolf_mod_one:insanedust"
+    },
+    "2": {
+      "item": "shadowwolf_mod_one:insanedust"
+    },
+    "4": {
+      "item": "shadowwolf_mod_one:colorstick"
+    },
+    "7": {
+      "item": "shadowwolf_mod_one:colorstick"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:insanepickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:glitchblock2"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:kernelingot",
+    "count": 9
+  }
+}

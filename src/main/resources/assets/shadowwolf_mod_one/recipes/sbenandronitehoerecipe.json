@@ -1,0 +1,27 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:benandronitesmooth"
+    },
+    "1": {
+      "item": "shadowwolf_mod_one:benandronitesmooth"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:sbenandronitehoe",
+    "count": 1
+  }
+}

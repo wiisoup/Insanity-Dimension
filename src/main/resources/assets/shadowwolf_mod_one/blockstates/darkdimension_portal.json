@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "shadowwolf_mod_one:darkdimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "shadowwolf_mod_one:darkdimension_portal_ns"
+    },
+    "inventory": {
+      "model": "shadowwolf_mod_one:darkdimension_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "shadowwolf_mod_one:charorite"
+    },
+    "title": {
+      "translate": "advancements.insanitydimensionportal.title"
+    },
+    "description": {
+      "translate": "advancements.insanitydimensionportal.descr"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "insanitydimensionportal": {
+      "trigger": "insanitydimensionportal"
+    }
+  },
+  "parent": "shadowwolf_mod_one:insanitydimension"
+}

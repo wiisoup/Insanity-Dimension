@@ -1,0 +1,26 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:darkgem"
+    },
+    "2": {
+      "item": "shadowwolf_mod_one:darkgem"
+    },
+    "3": {
+      "item": "shadowwolf_mod_one:darkgem"
+    },
+    "5": {
+      "item": "shadowwolf_mod_one:darkgem"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:darkarmorboots",
+    "count": 1
+  }
+}

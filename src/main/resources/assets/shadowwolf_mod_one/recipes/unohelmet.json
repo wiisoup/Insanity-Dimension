@@ -1,0 +1,29 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:unoblankcard1"
+    },
+    "1": {
+      "item": "shadowwolf_mod_one:unoblankcard1"
+    },
+    "2": {
+      "item": "shadowwolf_mod_one:unoblankcard1"
+    },
+    "3": {
+      "item": "shadowwolf_mod_one:unoblankcard1"
+    },
+    "5": {
+      "item": "shadowwolf_mod_one:unoblankcard1"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:unoarmorhelmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "34 ",
+    " 78"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:darkgem"
+    },
+    "1": {
+      "item": "shadowwolf_mod_one:darkgem"
+    },
+    "2": {
+      "item": "shadowwolf_mod_one:darkgem"
+    },
+    "3": {
+      "item": "shadowwolf_mod_one:insanityingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    },
+    "8": {
+      "item": "shadowwolf_mod_one:charoriteingot"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:darkpickaxe",
+    "count": 1
+  }
+}

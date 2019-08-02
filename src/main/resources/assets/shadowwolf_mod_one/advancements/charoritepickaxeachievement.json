@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "shadowwolf_mod_one:charoritesword"
+    },
+    "title": {
+      "translate": "advancements.charoritepickaxeachievement.title"
+    },
+    "description": {
+      "translate": "advancements.charoritepickaxeachievement.descr"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "charoritepickaxeachievement": {
+      "trigger": "charoritepickaxeachievement"
+    }
+  },
+  "parent": "shadowwolf_mod_one:insanitydimension"
+}

@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "shadowwolf_mod_one:darkdimension"
+    },
+    "title": {
+      "translate": "advancements.darkdimensionachievement.title"
+    },
+    "description": {
+      "translate": "advancements.darkdimensionachievement.descr"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "darkdimensionachievement": {
+      "trigger": "darkdimensionachievement"
+    }
+  },
+  "parent": "shadowwolf_mod_one:rainbowdimensionachievement"
+}

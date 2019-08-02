@@ -1,0 +1,24 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:flint"
+    },
+    "1": {
+      "item": "shadowwolf_mod_one:colorstick"
+    },
+    "2": {
+      "item": "minecraft:feather"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:rainbowarrow",
+    "count": 1
+  }
+}

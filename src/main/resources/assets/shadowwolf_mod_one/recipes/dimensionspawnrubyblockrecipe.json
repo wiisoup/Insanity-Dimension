@@ -1,0 +1,42 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:dimensionspawnruby"
+    },
+    "1": {
+      "item": "shadowwolf_mod_one:dimensionspawnruby"
+    },
+    "2": {
+      "item": "shadowwolf_mod_one:dimensionspawnruby"
+    },
+    "3": {
+      "item": "shadowwolf_mod_one:dimensionspawnruby"
+    },
+    "4": {
+      "item": "shadowwolf_mod_one:dimensionspawnruby"
+    },
+    "5": {
+      "item": "shadowwolf_mod_one:dimensionspawnruby"
+    },
+    "6": {
+      "item": "shadowwolf_mod_one:dimensionspawnruby"
+    },
+    "7": {
+      "item": "shadowwolf_mod_one:dimensionspawnruby"
+    },
+    "8": {
+      "item": "shadowwolf_mod_one:dimensionspawnruby"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:dimensionspawnrubyblock",
+    "count": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:darkgem"
+    },
+    "2": {
+      "item": "shadowwolf_mod_one:darkgem"
+    },
+    "3": {
+      "item": "shadowwolf_mod_one:darkgem"
+    },
+    "4": {
+      "item": "shadowwolf_mod_one:darkgem"
+    },
+    "5": {
+      "item": "shadowwolf_mod_one:darkgem"
+    },
+    "6": {
+      "item": "shadowwolf_mod_one:darkgem"
+    },
+    "7": {
+      "item": "shadowwolf_mod_one:darkgem"
+    },
+    "8": {
+      "item": "shadowwolf_mod_one:darkgem"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:darkarmorbody",
+    "count": 1
+  }
+}

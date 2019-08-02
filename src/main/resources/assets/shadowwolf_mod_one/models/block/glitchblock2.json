@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "shadowwolf_mod_one:blocks/glitchblock2",
+    "up": "shadowwolf_mod_one:blocks/glitchblock2",
+    "north": "shadowwolf_mod_one:blocks/glitchblock2",
+    "east": "shadowwolf_mod_one:blocks/glitchblock2",
+    "south": "shadowwolf_mod_one:blocks/glitchblock2",
+    "west": "shadowwolf_mod_one:blocks/glitchblock2",
+    "particle": "shadowwolf_mod_one:blocks/glitchblock2"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:insanityingot"
+    },
+    "2": {
+      "item": "shadowwolf_mod_one:insanityingot"
+    },
+    "3": {
+      "item": "shadowwolf_mod_one:insanityingot"
+    },
+    "4": {
+      "item": "shadowwolf_mod_one:insanityingot"
+    },
+    "5": {
+      "item": "shadowwolf_mod_one:insanityingot"
+    },
+    "6": {
+      "item": "shadowwolf_mod_one:insanityingot"
+    },
+    "7": {
+      "item": "shadowwolf_mod_one:insanityingot"
+    },
+    "8": {
+      "item": "shadowwolf_mod_one:insanityingot"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:insanityarmorbody",
+    "count": 1
+  }
+}

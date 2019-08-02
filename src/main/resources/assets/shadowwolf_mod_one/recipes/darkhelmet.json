@@ -1,0 +1,29 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:darkgem"
+    },
+    "1": {
+      "item": "shadowwolf_mod_one:darkgem"
+    },
+    "2": {
+      "item": "shadowwolf_mod_one:darkgem"
+    },
+    "3": {
+      "item": "shadowwolf_mod_one:darkgem"
+    },
+    "5": {
+      "item": "shadowwolf_mod_one:darkgem"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:darkarmorhelmet",
+    "count": 1
+  }
+}

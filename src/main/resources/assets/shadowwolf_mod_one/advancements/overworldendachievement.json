@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "shadowwolf_mod_one:brokenoverworld"
+    },
+    "title": {
+      "translate": "advancements.overworldendachievement.title"
+    },
+    "description": {
+      "translate": "advancements.overworldendachievement.descr"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "overworldendachievement": {
+      "trigger": "overworldendachievement"
+    }
+  },
+  "parent": "shadowwolf_mod_one:prankddimensionachievement"
+}

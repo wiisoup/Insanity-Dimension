@@ -1,0 +1,42 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:rainbowdust"
+    },
+    "1": {
+      "item": "shadowwolf_mod_one:rainbowdust"
+    },
+    "2": {
+      "item": "shadowwolf_mod_one:rainbowdust"
+    },
+    "3": {
+      "item": "shadowwolf_mod_one:rainbowdust"
+    },
+    "4": {
+      "item": "shadowwolf_mod_one:rainbowdust"
+    },
+    "5": {
+      "item": "shadowwolf_mod_one:rainbowdust"
+    },
+    "6": {
+      "item": "shadowwolf_mod_one:rainbowdust"
+    },
+    "7": {
+      "item": "shadowwolf_mod_one:rainbowdust"
+    },
+    "8": {
+      "item": "shadowwolf_mod_one:rainbowdust"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:rainbowblock",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "shadowwolf_mod_one:dimensionspawnhoe"
+    },
+    "title": {
+      "translate": "advancements.whyachievement.title"
+    },
+    "description": {
+      "translate": "advancements.whyachievement.descr"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "whyachievement": {
+      "trigger": "whyachievement"
+    }
+  },
+  "parent": "shadowwolf_mod_one:thedimensionspawn"
+}

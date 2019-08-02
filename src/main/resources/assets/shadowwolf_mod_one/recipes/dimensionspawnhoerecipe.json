@@ -1,0 +1,27 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:dimensionspawnrubyblock"
+    },
+    "1": {
+      "item": "shadowwolf_mod_one:dimensionspawnrubyblock"
+    },
+    "3": {
+      "item": "shadowwolf_mod_one:dimensionspawnrubystick"
+    },
+    "5": {
+      "item": "shadowwolf_mod_one:dimensionspawnrubystick"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:dimensionspawnhoe",
+    "count": 1
+  }
+}

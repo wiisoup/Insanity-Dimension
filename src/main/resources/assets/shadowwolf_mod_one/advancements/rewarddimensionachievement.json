@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "shadowwolf_mod_one:benandronitedimension"
+    },
+    "title": {
+      "translate": "advancements.rewarddimensionachievement.title"
+    },
+    "description": {
+      "translate": "advancements.rewarddimensionachievement.descr"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "rewarddimensionachievement": {
+      "trigger": "rewarddimensionachievement"
+    }
+  },
+  "parent": "shadowwolf_mod_one:insanitydimensionportal"
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "shadowwolf_mod_one:blocks/unoore",
+    "up": "shadowwolf_mod_one:blocks/unoore",
+    "north": "shadowwolf_mod_one:blocks/unoore",
+    "east": "shadowwolf_mod_one:blocks/unoore",
+    "south": "shadowwolf_mod_one:blocks/unoore",
+    "west": "shadowwolf_mod_one:blocks/unoore",
+    "particle": "shadowwolf_mod_one:blocks/unoore"
+  }
+}

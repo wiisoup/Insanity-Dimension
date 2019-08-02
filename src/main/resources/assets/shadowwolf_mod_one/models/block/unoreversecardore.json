@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "shadowwolf_mod_one:blocks/reversecardore",
+    "up": "shadowwolf_mod_one:blocks/reversecardore",
+    "north": "shadowwolf_mod_one:blocks/reversecardore",
+    "east": "shadowwolf_mod_one:blocks/reversecardore",
+    "south": "shadowwolf_mod_one:blocks/reversecardore",
+    "west": "shadowwolf_mod_one:blocks/reversecardore",
+    "particle": "shadowwolf_mod_one:blocks/reversecardore"
+  }
+}

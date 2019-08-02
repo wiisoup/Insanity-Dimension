@@ -1,0 +1,33 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "3 5",
+    " 78"
+  ],
+  "key": {
+    "1": {
+      "item": "shadowwolf_mod_one:colorstick"
+    },
+    "2": {
+      "item": "shadowwolf_mod_one:rainbowstring"
+    },
+    "3": {
+      "item": "shadowwolf_mod_one:colorstick"
+    },
+    "5": {
+      "item": "shadowwolf_mod_one:rainbowstring"
+    },
+    "7": {
+      "item": "shadowwolf_mod_one:colorstick"
+    },
+    "8": {
+      "item": "shadowwolf_mod_one:rainbowstring"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:rainbowbow",
+    "count": 1
+  }
+}

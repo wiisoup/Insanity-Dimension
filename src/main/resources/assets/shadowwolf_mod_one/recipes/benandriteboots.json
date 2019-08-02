@@ -1,0 +1,26 @@
+{
+  "group": "shadowwolf_mod_one",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "shadowwolf_mod_one:benandriteitem"
+    },
+    "2": {
+      "item": "shadowwolf_mod_one:benandriteitem"
+    },
+    "3": {
+      "item": "shadowwolf_mod_one:benandriteitem"
+    },
+    "5": {
+      "item": "shadowwolf_mod_one:benandriteitem"
+    }
+  },
+  "result": {
+    "item": "shadowwolf_mod_one:benandritearmorboots",
+    "count": 1
+  }
+}

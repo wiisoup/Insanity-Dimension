@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "shadowwolf_mod_one:blocks/sbenandroniteblockbottom",
+    "up": "shadowwolf_mod_one:blocks/sbenandroniteblock",
+    "north": "shadowwolf_mod_one:blocks/sbenandroniteblockside",
+    "east": "shadowwolf_mod_one:blocks/sbenandroniteblockside",
+    "south": "shadowwolf_mod_one:blocks/sbenandroniteblockside",
+    "west": "shadowwolf_mod_one:blocks/sbenandroniteblockside",
+    "particle": "shadowwolf_mod_one:blocks/sbenandroniteblockbottom"
+  }
+}

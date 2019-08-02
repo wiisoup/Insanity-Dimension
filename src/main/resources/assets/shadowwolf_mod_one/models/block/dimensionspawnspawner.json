@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "shadowwolf_mod_one:blocks/dimensionspawnspawner",
+    "up": "shadowwolf_mod_one:blocks/dimensionspawnspawner",
+    "north": "shadowwolf_mod_one:blocks/dimensionspawnspawner",
+    "east": "shadowwolf_mod_one:blocks/dimensionspawnspawner",
+    "south": "shadowwolf_mod_one:blocks/dimensionspawnspawner",
+    "west": "shadowwolf_mod_one:blocks/dimensionspawnspawner",
+    "particle": "shadowwolf_mod_one:blocks/dimensionspawnspawner"
+  }
+}
